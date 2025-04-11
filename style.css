@@ -1,20 +1,21 @@
 html {
+  color: #4285f4;
   height: 100%;
   width: 100%;
   background-color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
-  color: #4285f4;
   font-size: 14px;
 }
 
 body {
+  color: #4285f4;
   text-align: center;
   position: relative;
 }
 
 p {
-  font-family: Arial, Helvetica, sans-serif;
   color: #4285f4;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .left-aligned {
@@ -38,5 +39,6 @@ img {
 }
 
 h1 {
+  color: #4285f4;
   text-align: center;
 }
