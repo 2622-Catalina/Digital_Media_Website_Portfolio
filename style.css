@@ -4,12 +4,37 @@ html {
   background-color: #ffffff;
   color: #3c63ff;
   font-size: 14px}
+  
+h1 {
+  color: #3c63ff;
+  text-align: left;
+}
+  
+h2 {
+  color: #3c63ff;
+  text-align: left;
+  }
 
-body {
+  body {
   color: #3c63ff;
   text-align: left;
   position: relative;
-}
+
+    p1 {
+    color: #3c63ff;
+    text-align: left;
+    }
+
+    p2 {
+    color: #3c63ff;
+    text-align: left;
+    }
+
+    p3 {
+    color: #3c63ff;
+    text-align: left;
+    }
+  }
 
 .left-aligned {
   text-align: left;
@@ -29,14 +54,4 @@ body {
 img {
   display: block;
   margin: 0 auto;
-}
-
-h1 {
-  color: #3c63ff;
-  text-align: center;
-}
-
-h2 {
-  color: #3c63ff;
-  text-align: center;
 }
