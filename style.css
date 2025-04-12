@@ -26,6 +26,16 @@ body {
   margin-left: 20px;
 }
 
+div.bio {
+  width: 100%;
+  overflow: auto;
+}
+
+div.bio div {
+  width: 50%;
+  float: left;
+}
+
 .right-aligned {
   text-align: right;
   margin-right: 20px;
