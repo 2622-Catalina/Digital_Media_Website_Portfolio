@@ -2,11 +2,11 @@ html {
   height: 100%;
   width: 100%;
   background-color: #ffffff;
-  color: #65a0ff;
+  color: #498fff;
   font-size: 14px}
 
 body {
-  color: #65a0ff;
+  color: #498fff;
   text-align: left;
   position: relative;
 }
@@ -32,11 +32,11 @@ img {
 }
 
 h1 {
-  color: #65a0ff;
+  color: #498fff;
   text-align: center;
 }
 
 h2 {
-  color: #65a0ff;
+  color: #498fff;
   text-align: center;
 }
