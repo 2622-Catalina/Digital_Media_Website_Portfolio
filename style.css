@@ -21,6 +21,34 @@ body {
   position: relative;
 }
 
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #7893ff;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #cfd8fc;
+  color: #5D7EFF;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #5B7BFF;
+  color: white;
+}
+
 .left-aligned {
   text-align: left;
   margin-left: 20px;
@@ -48,6 +76,7 @@ div.bio div {
 
 img {
   display: block;
-  margin: 5 auto;
-  width: 60%;
+  /*margin: 5 auto;*/
+	margin-left: 27%;
+  width: 35%;
 }
