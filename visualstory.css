@@ -1,0 +1,11 @@
+.grid-content {
+  width: 100%;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 10px;
+}
+
+img {
+  width: 80%
+}
